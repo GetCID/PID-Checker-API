@@ -76,3 +76,8 @@ For API access and additional support, feel free to reach out:
 - **Skype**: live:.cid.afc21522bf98cf1b  
 
 Start validating your Microsoft license keys today! Integrate our **PID Checker API** into your workflow and ensure hassle-free license management. Learn more at [https://msconfirmationid.com/ms-pid-checker-api/](https://msconfirmationid.com/ms-pid-checker-api/).
+
+- **Email**: [care@msconfirmationid.com](mailto:care@msconfirmationid.com)  
+- **Telegram**: [@MicrosoftKeySeller](https://t.me/MicrosoftKeySeller)  
+- **Skype**: [live:.cid.afc21522bf98cf1b](https://join.skype.com/invite/.cid.afc21522bf98cf1b)  
+- **See Bot in action**: [Join the Official Group](https://t.me/GETCID_Official)  
